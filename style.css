@@ -1413,3 +1413,74 @@ label.color-c2{
 	margin:20px 0 20px 15px;
 	line-height:20px;
 }
+
+/* hệ thống quản lý lương */
+.frm-system-salary .s1{
+	display:inline-block;
+}
+.frm-system-salary select{
+	min-width: 205px;
+	text-align:center;
+	display:inline-block;
+}
+.frm-system-salary .s2{
+	display:block;
+	margin:20px 0;
+}
+.frm-system-salary input[type="text"]
+{
+	width:98%;
+	line-height:100px;
+	text-align:top;
+	border:1px solid #d8d8d8;
+	border-radius:5px;
+}
+
+/* lịch sử giao dịch */
+.s3{
+	display:block;
+	margin:20px 0 10px 0;
+	color:#af3f01;
+	font-weight:bold;
+}
+.s3 a{
+	color: red;
+}
+.frm-history-gd input[type="text"]
+{
+	width:98%;
+	line-height:100px;
+	text-align:top;
+	border:1px solid #d8d8d8;
+	border-radius:5px;
+	margin-top:10px;
+}
+
+
+/* Điêmt tích lũy bán hàng */
+.sales{
+	color:#016dc0;
+	
+}
+.lbl_sales{
+	font-weight:bold !important;
+}
+.lbl_sales2{
+	color:#b6772a;
+	font-weight:bold;
+	border-top: 1px solid #e7e7e7;
+	border-left: 1px solid #e7e7e7;
+    width: 30%;
+}
+.lbl_sales2:first-child{
+	border-left: none;
+}
+.lbl_sales3{
+	font-weight:bold;
+	border-top: 1px solid #e7e7e7;
+	border-left: 1px solid #e7e7e7;
+    width: 30%;
+}
+.lbl_sales3:first-child{
+	border-left: none;
+}
