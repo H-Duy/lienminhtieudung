@@ -1484,3 +1484,52 @@ label.color-c2{
 .lbl_sales3:first-child{
 	border-left: none;
 }
+
+
+/* chiết khấu bán hàng */
+.frm-discount-sale span{
+	display: block;
+	margin-bottom: 15px;
+}
+.bgr_1{
+	background: #EDEDED;
+}
+.ma,.giatri{
+	width: 15%;
+	text-align:center;
+	border-left:1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.chietkhau,.ngay{
+	width:25%;
+	text-align:center;
+	border-left:1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.ctv{
+	width:20%;
+	text-align:center;
+	border-left:1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.frm-discount-sale ul li div:first-child{
+	border-left:none;
+}
+.bold{
+	font-weight: bold !important;
+}
+.xanh1{
+	color: #000666;
+}
+.xanh2{
+	color: blue;
+}
+.tal_l{
+	text-align: left !important;
+}
+.tal_r{
+	text-align: right !important;
+}
+.bd_b{
+	border-bottom: none !important;
+}
